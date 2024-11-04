@@ -20,4 +20,4 @@ This repository provides a boilerplate template for quickly setting up a Data Ac
 ### Installation
 
 1. Clone the repository:
-   ```bash https://github.com/santoshshah1/DataAccessLayer.git/'
+   git clone https://github.com/santoshshah1/DataAccessLayer.git/'
